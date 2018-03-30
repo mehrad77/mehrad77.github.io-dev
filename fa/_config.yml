@@ -4,8 +4,8 @@
 
 # Site
 title: مهراد روستا
-subtitle: گیک، فلان، بیسار و چند چیز دیگر
-description: من مهراد روستا هستم و این هم وبلاگ من به زبان فارسی. علاقه‌مند به موسیقی، دانش، کامپیوتر، زبان و چند چیز دیگر
+subtitle: گیک، فلان، بیسار و چندتا چیز دیگر
+description: من مهراد روستا هستم و این هم وبلاگ من به زبان فارسی. علاقه‌مند به موسیقی، دانش، کامپیوتر، زبان و چندتا چیز دیگر
 keywords:
 author: مهراد روستا
 language: fa
@@ -14,13 +14,13 @@ timezone: Asia/Tehran
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://mehrad77.github.io/fa
-root: /
+root: /fa/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: ../publics/fa
 tag_dir: tags
 archive_dir: archives
 category_dir: categories

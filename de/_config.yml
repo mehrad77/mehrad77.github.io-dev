@@ -4,23 +4,23 @@
 
 # Site
 title: Mehrad Rousta
-subtitle: Geek, Human, And some other things
-description: I'm Mehrad Rousta, from Tehran, Developer and some other stuff.
+subtitle: Geek, mens en nog wat andere dingen
+description: Ik ben Mehrad Rousta, uit Teheran, ontwikkelaar en nog wat andere dingen.
 keywords:
 author: Mehrad Rousta
-language: en
+language: de
 timezone: Asia/Tehran
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://mehrad77.github.io/en
-root: /en/
+url: https://mehrad77.github.io/de
+root: /de/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: ../publics/en
+public_dir: ../publics/de
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
