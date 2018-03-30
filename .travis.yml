@@ -13,6 +13,7 @@ before_install:
   - echo "All generated"
   - cd publics 
   - git add .
+  - git commit -m "latest update"
   - git push
 before_script:
   - echo "this is a travis before_script test"
