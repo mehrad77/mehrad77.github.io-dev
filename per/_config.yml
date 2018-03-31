@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Mehrād Rustā injāst
+title: Mehrād Rustā
 subtitle: Geek, folān, bisār va cand ciz digar.
 description: Man Mehrād Rustā hastam va in ham Weblog man be zabān-e pārsi. Alāqemand be musiqi, dāneš, computer, zabān va cand ciz digar.
 keywords:
@@ -78,4 +78,5 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type: shell
+  command: cd .. && npm run-script deploy

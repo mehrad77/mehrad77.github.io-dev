@@ -12,7 +12,8 @@
     "admin-en": "cd en && hexo server -d",
     "admin-fa": "cd fa && hexo server -d",
     "admin-de": "cd de && hexo server -d",
-    "admin-per": "cd per && hexo server -d"
+    "admin-per": "cd per && hexo server -d",
+    "deploy": "npm run-script generate-all && npm run-script publish"
   },
   "repository": {
     "type": "git",
