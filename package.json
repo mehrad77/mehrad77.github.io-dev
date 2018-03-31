@@ -8,7 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "publish": "bash publish.sh",
     "sync-theme": "bash sync-theme.sh",
-    "generate-all":"bash generate-all.sh"
+    "generate-all":"bash generate-all.sh",
+    "admin-en": "cd en && hexo server -d",
+    "admin-fa": "cd fa && hexo server -d",
+    "admin-de": "cd de && hexo server -d",
+    "admin-per": "cd per && hexo server -d"
   },
   "repository": {
     "type": "git",
