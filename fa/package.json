@@ -24,6 +24,7 @@
     "hexo-github-card": "^1.0.2",
     "hexo-image-caption": "^0.1.1",
     "hexo-inject": "^1.0.0",
+    "hexo-reading-time": "^1.0.3",
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.1",
@@ -35,6 +36,7 @@
     "hexo-tag-kbd": "0.0.1",
     "hexo-tag-owl": "^1.2.2",
     "hexo-tag-soundcloud": "^1.0.2",
-    "hexo-tag-spotify": "^1.0.4"
+    "hexo-tag-spotify": "^1.0.4",
+    "hexo-tag-twitter": "^1.0.1"
   }
 }
