@@ -1,5 +1,5 @@
 ---
-title: Hello World 
+title: test
 featured_image: https://mehrad.js.org/images/background.jpg
 thumbnail: https://mehrad.js.org/images/background.jpg
 tags:

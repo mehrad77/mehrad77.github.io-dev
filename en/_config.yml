@@ -81,7 +81,6 @@ deploy:
   type: shell
   command: cd .. && npm run-script deploy
 
-#Github emojis
 githubEmojis:
   enable: true
   className: github-emoji
@@ -90,20 +89,6 @@ githubEmojis:
     display: inline
     vertical-align: bottom
   localEmojis:
-
-# #Podcast  (https://github.com/owen8877/hexo-generator-podcast)
-# podcast:
-#     type: rss2
-#     path: podcast.xml
-#     limit: 20
-#     hub:
-#     url: https://mehrad.js.org/podcast
-#     description: 
-#     language: fa-IR
-#     copyright: "COPYRIGHT"
-#     owner: ITUNES-OWNER
-#     email: mehrad77@gmail.com
-#     category: podcast
 
 image_caption:
   enable: true 
@@ -175,3 +160,23 @@ authorDetail:
     height: 150                                   #(optional)
   description: Developer, Blogger, Enthusiastic and Geek;                  #(optional)
 # copyright_notice: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"> <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /> </a>
+
+#Mehrad Strings
+mehrad:
+  also_see:
+  minutes: minutes
+
+
+# #Podcast  (https://github.com/owen8877/hexo-generator-podcast)
+# podcast:
+#     type: rss2
+#     path: podcast.xml
+#     limit: 20
+#     hub:
+#     url: https://mehrad.js.org/podcast
+#     description: 
+#     language: fa-IR
+#     copyright: "COPYRIGHT"
+#     owner: ITUNES-OWNER
+#     email: mehrad77@gmail.com
+#     category: podcast
